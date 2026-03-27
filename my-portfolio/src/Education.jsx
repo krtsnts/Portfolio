@@ -9,4 +9,4 @@ function Education(props) {
             </div>
         </div>
     );
-}
+} export default Education;
